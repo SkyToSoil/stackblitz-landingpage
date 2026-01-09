@@ -1,14 +1,16 @@
 "use client";
+
 export default function HomePage() {
   return (
     <div className="page">
-      <header className="header">
+      {<header className="header">
         <div className="container headerInner">
           <div className="brand">
             <div className="logoMark" aria-hidden="true" />
-            <span className="brandName">Sky To Soil</span>
-          </div>
-
+            <span className="brandName">Sky To Soil</span>}
+    </div>
+  );
+}
           <nav className="nav">
             <a href="#solutions" className="navLink">Solutions</a>
             <a href="#expertise" className="navLink">Expertise</a>
