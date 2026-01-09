@@ -69,12 +69,9 @@ wherever you live.
                   <div className="visualTile">Sink</div>
                 </div>
               </div>
-          </div>
-        </section>
 
-        <section id="about" className="section">
-          <div className="container">
-            <div className="kicker">Why Sky to Soil?n</div>
+      <div className="visualCard secondary">
+        <div className="visualTitle">Why Sky to Soil?n</div>
             <h2 className="h2">Putting Every Drop of Rain to Work for You </h2>
             <p className="lead">
               Design interventions that work with gravity, soil, and biology, not against them.
